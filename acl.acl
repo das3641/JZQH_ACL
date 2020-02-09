@@ -1,5 +1,7 @@
+[bypass_all]
+
 [proxy_list]
 10.220.1.180
 10.220.1.175
 10.20.1.13
-[bypass_all]
+
